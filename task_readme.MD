@@ -18,3 +18,10 @@
 - Think of it as a intern checked in this code and as a senior has to code review and fix the code
   from implementation perspective to make it correct and efficient.
 - Send the fixed file back to the recruiter.
+
+# TODO's
+
+- Add Scroll Listener to Listview Builder To listen scroll changes
+- Need to Have all the counts in Parent widget where we have scrlling
+- Remove add List Widget in list from build context
+- Use Key to remove specific/right element from list
